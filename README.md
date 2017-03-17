@@ -3,6 +3,7 @@ An open source prayer to our Lord and Saviour Linus Torvalds.
 
 `"My name is Linus Torvald and I am your God"` - Linus Torvalds
 
+`
 Our Linus, Who art in Linux
 Open be thy source
 Thy release come
@@ -14,3 +15,4 @@ As we forgive those who fork our code
 And lead us not into mac-os
 But deliver us from Microsoft. 
 Sudo.
+`
